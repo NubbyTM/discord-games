@@ -1,0 +1,12 @@
+{
+  "name": "DiscordGames",
+  "version": "3.10.10",
+  "description": "a thing",
+  "main": "main.js",
+  "scripts": {
+    "start": "main.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  }
+}
